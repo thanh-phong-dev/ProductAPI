@@ -23,7 +23,7 @@ import product.api.service.ProductService;
  * The Class ProductController.
  */
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api");
 public class ProductController {
 
 	/** The product service. */
